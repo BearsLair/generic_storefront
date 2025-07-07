@@ -1,0 +1,23 @@
+.nav-div {
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-title {
+  font-size: 2rem;
+}
+
+.nav-input {
+  font-size: 1.5rem;
+}
+
+.nav-searchbtn {
+  font-size: 1.5rem;
+}
+
+.nav-cartbtn {
+  font-size: 1.5rem;
+}
