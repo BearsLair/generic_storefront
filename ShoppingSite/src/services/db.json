@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "Cozy Dress Shoes",
+      "price": 24.95
+    },
+    {
+      "id": 1,
+      "name": "Blue Laced Sneakers",
+      "price": 15.99
+    },
+    {
+      "id": 2,
+      "name": "Red High Heels",
+      "price": 19.99
+    },
+    {
+      "id": 3,
+      "name": "Black Dress Shoes",
+      "price": 24.99
+    },
+    {
+      "id": 4,
+      "name": "Comfy Running Shoes",
+      "price": 15.99
+    },
+    {
+      "id": 5,
+      "name": "Leather Boat Shoes",
+      "price": 18.99
+    }
+  ]
+}
